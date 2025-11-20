@@ -205,3 +205,27 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+# Data files (don't commit scraped data)
+data/raw/
+*.csv
+*.json
+*.xlsx
+
+# OS files
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+# Data files (don't commit scraped data)
+data/raw/
+*.csv
+*.json
+*.xlsx
+
+# OS files
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+
